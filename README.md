@@ -4,6 +4,8 @@
 ## 📚 Descrição do Projeto
 O código feito apresenta uma interface simples de login em Python utilizando a biblioteca PySimpleGUI.
 
+Fonte Dev Aprender: https://www.youtube.com/watch?v=yDRsbt714WA
+
 ## 🖥️ Tecnologia Utilizada
 - Python
 
